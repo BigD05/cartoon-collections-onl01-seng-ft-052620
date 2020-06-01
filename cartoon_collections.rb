@@ -4,7 +4,6 @@ def roll_call_dwarves(array)
     puts array[name]= index
   
   end 
-
 end
 
 def summon_captain_planet# code an argument here
